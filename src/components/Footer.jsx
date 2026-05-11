@@ -102,7 +102,7 @@ export default function Footer() {
             className="w-10 h-10 rounded-full bg-[#5BBFEF]/20 flex items-center justify-center hover:bg-[#5BBFEF]/40 transition-colors group"
           >
             <Icon
-              name="facebook"
+              name="faFacebook"
               size={16}
               className="text-[#5BBFEF] group-hover:scale-110 transition-transform"
             />
@@ -112,7 +112,7 @@ export default function Footer() {
             className="w-10 h-10 rounded-full bg-[#5BBFEF]/20 flex items-center justify-center hover:bg-[#5BBFEF]/40 transition-colors group"
           >
             <Icon
-              name="instagram"
+              name="faInstagram"
               size={16}
               className="text-[#5BBFEF] group-hover:scale-110 transition-transform"
             />
@@ -122,7 +122,7 @@ export default function Footer() {
             className="w-10 h-10 rounded-full bg-[#5BBFEF]/20 flex items-center justify-center hover:bg-[#5BBFEF]/40 transition-colors group"
           >
             <Icon
-              name="twitter"
+              name="faTwitter"
               size={16}
               className="text-[#5BBFEF] group-hover:scale-110 transition-transform"
             />
@@ -132,7 +132,7 @@ export default function Footer() {
             className="w-10 h-10 rounded-full bg-[#5BBFEF]/20 flex items-center justify-center hover:bg-[#5BBFEF]/40 transition-colors group"
           >
             <Icon
-              name="send"
+              name="faWhatsapp"
               size={16}
               className="text-[#5BBFEF] group-hover:scale-110 transition-transform"
             />

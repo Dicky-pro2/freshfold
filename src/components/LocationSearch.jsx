@@ -1,6 +1,6 @@
 import { useState, useEffect, useRef } from "react";
 import Icon from "../icon/Icon";
-import lagosLocations from "../data/lagosLocations";
+import lagosLocations from "../data/LagosLocations";
 
 const STORAGE_KEY = "freshfold-saved-location";
 
